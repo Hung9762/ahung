@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        ahung
+        Alexander Hung
       </h1>
       <h2 class="subtitle">
         
