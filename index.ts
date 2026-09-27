@@ -3,7 +3,7 @@ import figlet from "figlet";
 const server = Bun.serve({
   routes: {
     "/": () => {
-      const homepage = figlet.textSync("Homepage");
+      const homepage = figlet.textSync("Hello there!");
       return new Response(homepage);
     },
     "/about": () => {
